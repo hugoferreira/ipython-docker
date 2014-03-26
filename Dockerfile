@@ -1,4 +1,5 @@
 FROM phusion/baseimage
+MAINTAINER Hugo Sereno Ferreira, bytter@gmail.com
 
 ENV HOME /root
 
